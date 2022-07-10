@@ -11,6 +11,7 @@ authors:
   - Simone Melzi
   - Emanuele Rodolà
 doi: https://arxiv.org/abs/2201.10222
+publication_short: arXiv preprint
 abstract: We introduce Explanatory Learning (EL), a framework to let machines
   use existing knowledge buried in symbolic sequences -- e.g. explanations
   written in hieroglyphic -- by autonomously learning to interpret them. In EL,
@@ -38,5 +39,5 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T14:05:16.827Z
+date: 2022-07-10T14:12:55.582Z
 ---
