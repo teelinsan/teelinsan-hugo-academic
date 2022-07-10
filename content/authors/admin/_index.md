@@ -2,8 +2,7 @@
 title: Andrea Santilli
 role: PhD Student in Computer Science
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research activity lies at the intersection of natural language processing, representation learning and machine intelligence.
 interests:
   - Natural Language Processing
   - Representation Learning
@@ -24,11 +23,14 @@ social:
 organizations:
   - name: GLADIA, Sapienza University of Rome
     url: https://gladia.di.uniroma1.it/members/santilli
+
+
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Sapienza University of Rome
-      year: ""
+      logo: gladia.svg
+      padding_logo: 1
     - course: MSc in Computer Science
       institution: University of Roma Tor Vergata
       year: 2020
