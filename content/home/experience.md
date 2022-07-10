@@ -5,7 +5,7 @@ experience:
   - title: Open Science Researcher
     company: Hugginface BigScience
     company_url: "https://bigscience.huggingface.co/"
-    company_logo: bigscience.jpg
+    company_logo: org-x
     location: Remote
     date_start: 2021-06-06
     date_end: ""
@@ -13,7 +13,7 @@ experience:
   - title: University Research Assistant
     company: ART Lab, University of Roma Tor Vergata 
     company_url: "http://art.uniroma2.it/"
-    company_logo: ArtLogo
+    company_logo: org-x
     location: Rome
     date_start: 2018-01-01
     date_end: 2020-06-06
@@ -21,7 +21,7 @@ experience:
   - title: Research Engineer
     company: Pi School, School of Artificial Intelligence 
     company_url: "https://picampus-school.com/programme/school-of-ai/"
-    company_logo: pischool
+    company_logo: org-x
     location: Rome
     date_start: 2019-10-10
     date_end: 2019-12-31
