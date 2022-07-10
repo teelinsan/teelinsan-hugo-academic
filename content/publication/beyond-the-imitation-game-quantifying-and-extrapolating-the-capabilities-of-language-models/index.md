@@ -4,7 +4,8 @@ title: "Beyond the Imitation Game: Quantifying and extrapolating the
 publication_types:
   - "3"
 authors:
-  - BIG-benchcontributors including admin
+  - BIG-benchcontributors including
+  - admin
   - Antonio Norelli
   - Emanuele Rodolà
   - Giambattista Parascandolo
