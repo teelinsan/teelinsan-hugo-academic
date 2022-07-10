@@ -10,6 +10,7 @@ authors:
   - admin
   - Luca Cosmo
   - Emanuele Rodolà
+publication_short: arXiv preprint
 abstract: State of the art audio source separation models rely on supervised
   data-driven approaches, which can be expensive in terms of labeling resources.
   On the other hand, approaches for training these models without any direct
