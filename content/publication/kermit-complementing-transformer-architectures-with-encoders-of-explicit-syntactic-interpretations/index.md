@@ -30,5 +30,5 @@ image:
   filename: kermit_the_frog.jpg
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T12:45:03.271Z
+date: 2022-07-10T13:40:20.640Z
 ---
