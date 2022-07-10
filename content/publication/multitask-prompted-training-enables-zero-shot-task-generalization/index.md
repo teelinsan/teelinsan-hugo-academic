@@ -7,11 +7,8 @@ authors:
   - Albert Webson
   - Colin Raffel
   - Stephen H. Bach
-  - ...
+  - BIG-Science contributors including
   - admin
-  - ...
-  - Thomas Wolf
-  - Alexander M. Rush
 doi: https://openreview.net/forum?id=9Vrb9D0WI4
 publication: International Conference on Learning Representations
 publication_short: "**ICLR 2022 Spotlight**"
