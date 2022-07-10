@@ -8,7 +8,7 @@ experience:
     company_logo: bigscience
     location: Remote
     date_start: 2021-06-06
-    date_end: ""
+    date_end: 2022-06-06
     description: Researcher at Hugginface’s workshop on large language models. Worked in the prompt-engineering working group on zero-shot generalization. Two publications.
   - title: University Research Assistant
     company: ART Lab, University of Roma Tor Vergata 
