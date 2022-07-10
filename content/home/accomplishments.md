@@ -5,7 +5,7 @@ item:
   - certificate_url:
     date_end: ""
     date_start: 2022-02-02
-    description: Our project on efficient Machine Translation (MT) was selected as the winner of the category “Machine Learning Algorithms For Translation” among 70 different proposals submitted by professors and world experts in MT. **PI: Andrea Santilli**. **Budget**: 20,000€
+    description: Our project on efficient Machine Translation (MT) was selected as the winner of the category 'Machine Learning Algorithms For Translation' among 70 different proposals submitted by professors and world experts in MT. **PI: Andrea Santilli**. **Budget**: 20,000€
     organization: translatedlogo
     organization_url: https://translated.com/
     title: Incremental Parallel Inference for Machine Translation
