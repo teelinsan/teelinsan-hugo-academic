@@ -1,8 +1,8 @@
 ---
 widget: pages
-widget_id: " "
+widget_id: "  "
 headless: true
-weight: 90
+weight: 10
 title: Publications
 subtitle: ""
 content:
