@@ -44,8 +44,9 @@ superuser: true
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I’m Andrea Santilli a Ph.D. student in Computer Science at GLADIA - Sapienza University of Rome - supervised by Prof. Emanuele Rodolà.
+Previously, I earned my master degree in Computer Science from Tor Vergata University with the thesis “Continual Language Learning with Syntax-based Episodic Memory in Neural Networks” which received the Emanuele Pianta award as the best master thesis is NLP by the [Italian Association of Computational Linguistics (AILC)](https://www.ai-lc.it/en/awards/best-master-thesis-emanuele-pianta/). The thesis led to the publication [KERMIT](https://aclanthology.org/2020.emnlp-main.18/) at EMNLP2020.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I’m a strong advocate of Open Source and Open Science initiatives, like [Hugginface’s BigScience](https://bigscience.huggingface.co/) in which I co-authored different papers.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My research activity lies at the intersection of representation learning, machine intelligence and natural language understanding.
