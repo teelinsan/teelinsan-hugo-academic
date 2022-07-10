@@ -15,6 +15,7 @@ authors:
 author_notes:
   - (Spotlight talk at WELM workshop @ ICLR2021)
 doi: https://arxiv.org/abs/2206.04615
+publication_short: arXiv preprint
 abstract: "Language models demonstrate both quantitative improvement and new
   qualitative capabilities with increasing scale. Despite their potentially
   transformative impact, these new capabilities are as yet poorly characterized.
