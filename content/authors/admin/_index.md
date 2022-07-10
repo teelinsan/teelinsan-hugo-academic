@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Sapienza University of Rome
-      year: 2024
+      year: ""
     - course: MSc in Computer Science
       institution: University of Roma Tor Vergata
       year: 2020
