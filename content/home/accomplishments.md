@@ -12,7 +12,7 @@ item:
     url: "https://imminent.translated.com/research-grants-ceremony-innovations-in-language-technology"
   - date_end: ""
     date_start: 2021-12-12
-    description: Joint project on multimodal 3D and NLP applications between our research group GLADIA at Sapienza and Maks Ovsjanikov’s group at Ecole Polytechnique. **PI**: Simone Melzi, Maks Ovsjanikov. **Budget**: 10,000€
+    description: "Joint project on multimodal 3D and NLP applications between our research group GLADIA at Sapienza and Maks Ovsjanikov’s group at Ecole Polytechnique. **PI**: Simone Melzi, Maks Ovsjanikov. **Budget**: 10,000€"
     organization: org-x
     organization_url: ""
     title: Multimodal Artificial Intelligence for 3D shape analysis, modeling and applications
