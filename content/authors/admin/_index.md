@@ -27,14 +27,14 @@ organizations:
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Sapienza University of Rome
+      year: 2024
+    - course: MSc in Computer Science
+      institution: University of Roma Tor Vergata
+      year: 2020
+    - course: BSc in Computer Science
+      institution: University of Roma Tor Vergata
+      year: 2018
 email: ""
 superuser: true
 highlight_name: true
