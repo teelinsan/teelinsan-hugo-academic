@@ -2,7 +2,7 @@
 title: Andrea Santilli
 role: PhD Student in Computer Science
 avatar_filename: avatar.jpg
-bio: My research activity lies at the intersection of natural language processing, representation learning and machine intelligence.
+bio: PhD Student passionate about natural language processing, representation learning and machine intelligence.
 interests:
   - Natural Language Processing
   - Representation Learning
@@ -33,9 +33,11 @@ education:
       padding_logo: 1
     - course: MSc in Computer Science
       institution: University of Roma Tor Vergata
+      grade: "110/110 with honors"
       year: 2020
     - course: BSc in Computer Science
       institution: University of Roma Tor Vergata
+      grade: "110/110 with honors"
       year: 2018
 email: ""
 superuser: true
