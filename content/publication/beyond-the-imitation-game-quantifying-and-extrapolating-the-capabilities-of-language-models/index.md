@@ -12,6 +12,8 @@ authors:
   - Giorgio Mariani
   - Luca Moschella
   - Simone Melzi
+author_notes:
+  - (Spotlight talk at WELM workshop @ ICLR2021)
 doi: https://arxiv.org/abs/2206.04615
 abstract: "Language models demonstrate both quantitative improvement and new
   qualitative capabilities with increasing scale. Despite their potentially
