@@ -4,12 +4,12 @@ title: "KERMIT: Complementing Transformer Architectures with Encoders of
 publication_types:
   - "1"
 authors:
-  - Zanzotto
-  - A Santilli
-  - L Ranaldi
-  - D Onorati
-  - P Tommasino
-  - F Fallucchi
+  - Fabio Massimo Zanzotto
+  - admin
+  - Leonardo Ranaldi
+  - Dario Onorati
+  - Pierfrancesco Tommasino
+  - Francesca Fallucchi
 doi: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18
 publication: Proceedings of the 2020 Conference on Empirical Methods in Natural
   Language Processing (EMNLP)
@@ -27,7 +27,7 @@ abstract: Syntactic parsers have dominated natural language understanding for
 draft: false
 featured: false
 image:
-  filename: https://en.wikipedia.org/wiki/Kermit_the_Frog
+  filename: kermit_the_frog.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-07-10T12:45:03.271Z
