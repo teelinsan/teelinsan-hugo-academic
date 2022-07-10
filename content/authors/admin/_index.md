@@ -1,7 +1,7 @@
 ---
 title: Andrea Santilli
 role: PhD Student in Computer Science
-avatar_filename: foto-profilo.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
