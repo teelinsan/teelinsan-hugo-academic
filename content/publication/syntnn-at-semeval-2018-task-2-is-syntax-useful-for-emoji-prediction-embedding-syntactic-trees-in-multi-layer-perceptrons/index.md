@@ -21,5 +21,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T13:35:57.043Z
+date: '2018-06-25'
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'SemEval 2018'
+  url: http://dx.doi.org/10.18653/v1/S18-1076
 ---
