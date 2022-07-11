@@ -26,6 +26,14 @@ experience:
     date_start: 2019-10-10
     date_end: 2019-12-31
     description: Worked on a European Commission project to promote entrepreneurship and tech transfer in the R&D area (“Started Project”)  via NLP-based tools.
+  - title: NLP Research Engineer
+    company: Mashfrog Group 
+    company_url: "https://www.mashfrog.com/"
+    company_logo: mashfrog
+    location: Rome
+    date_start: 2019-07-01
+    date_end: 2019-10-30
+    description: Research and development of NLP models (grammar error correction, language generation) for a web-based text editor for press releases.
 widget_id: " "
 headless: true
 weight: 40
