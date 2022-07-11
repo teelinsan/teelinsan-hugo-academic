@@ -28,7 +28,7 @@ image:
   preview_only: false
 date: 2018-10-10
 links:
-- icon:  chalkboard-user
+- icon:
   icon_pack: fas
   name: 'EVALITA 2018'
   url: https://doi.org/10.4000/books.aaccademia.4613

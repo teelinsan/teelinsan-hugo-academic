@@ -14,7 +14,7 @@ authors:
   - Simone Melzi
 author_notes:
   - (Spotlight task at WELM workshop @ ICLR2021)
-doi: https://arxiv.org/abs/2206.04615
+doi: 
 publication_short: arXiv preprint
 abstract: "Language models demonstrate both quantitative improvement and new
   qualitative capabilities with increasing scale. Despite their potentially

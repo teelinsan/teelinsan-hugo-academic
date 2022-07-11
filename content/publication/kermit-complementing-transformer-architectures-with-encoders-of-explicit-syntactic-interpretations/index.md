@@ -32,7 +32,7 @@ image:
   preview_only: false
 date: 2020-06-10
 links:
-- icon:  chalkboard
+- icon:  chalkboard-user
   icon_pack: fas
   name: 'EMNLP 2020'
   url: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18

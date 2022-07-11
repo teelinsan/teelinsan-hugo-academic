@@ -23,7 +23,7 @@ image:
   preview_only: false
 date: '2018-06-25'
 links:
-- icon:  chalkboard-user
+- icon:
   icon_pack: fas
   name: 'SemEval 2018'
   url: http://dx.doi.org/10.18653/v1/S18-1076
