@@ -13,7 +13,7 @@ authors:
   - Luca Moschella
   - Simone Melzi
 author_notes:
-  - (Spotlight talk at WELM workshop @ ICLR2021)
+  - (Spotlight task at WELM workshop @ ICLR2021)
 doi: https://arxiv.org/abs/2206.04615
 publication_short: arXiv preprint
 abstract: "Language models demonstrate both quantitative improvement and new
@@ -49,7 +49,7 @@ image:
   preview_only: false
 date: 2022-06-10
 links:
-- icon:  chalkboard-user
+- icon:
   icon_pack: fas
   name: 'arXiv'
   url: https://arxiv.org/abs/2206.04615
