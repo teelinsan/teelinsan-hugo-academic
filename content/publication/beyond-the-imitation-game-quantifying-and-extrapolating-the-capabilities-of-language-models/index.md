@@ -47,5 +47,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T13:49:52.222Z
+date: 2022-06-10
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'arXiv'
+  url: https://arxiv.org/abs/2206.04615
 ---

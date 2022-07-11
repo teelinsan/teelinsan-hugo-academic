@@ -27,8 +27,13 @@ abstract: "Syntactic parsers have dominated natural language understanding for
 draft: false
 featured: false
 image:
-  filename: kermit_the_frog.jpg
+  filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T13:40:20.640Z
+date: 2020-06-10
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'EMNLP 2020'
+  url: http://dx.doi.org/10.18653/v1/2020.emnlp-main.18
 ---

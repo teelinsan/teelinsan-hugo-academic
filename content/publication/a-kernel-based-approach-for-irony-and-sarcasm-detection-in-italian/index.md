@@ -26,5 +26,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T13:42:13.167Z
+date: 2018-10-10
+links:
+- icon:  chalkboard-user
+  icon_pack: fas
+  name: 'EVALITA 2018'
+  url: https://doi.org/10.4000/books.aaccademia.4613
 ---
