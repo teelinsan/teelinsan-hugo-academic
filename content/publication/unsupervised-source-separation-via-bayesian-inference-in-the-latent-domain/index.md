@@ -37,5 +37,5 @@ links:
 - icon:
   icon_pack: fas
   name: 'arXiv'
-  url: http://dx.doi.org/10.18653/v1/S18-1076
+  url: https://arxiv.org/abs/2110.05313
 ---

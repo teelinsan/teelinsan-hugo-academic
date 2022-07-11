@@ -9,7 +9,7 @@ authors:
   - Stephen H. Bach
   - BIG-Science contributors including
   - admin
-doi: https://openreview.net/forum?id=9Vrb9D0WI4
+doi: 
 publication: International Conference on Learning Representations
 publication_short: "**ICLR 2022 Spotlight**"
 abstract: Large language models have recently been shown to attain reasonable
@@ -36,5 +36,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T14:01:07.823Z
+date: 2021-09-29
+links:
+- icon: chalkboard-user
+  icon_pack: fas
+  name: 'ICLR 2022 (Oral)'
+  url: https://openreview.net/forum?id=9Vrb9D0WI4
 ---

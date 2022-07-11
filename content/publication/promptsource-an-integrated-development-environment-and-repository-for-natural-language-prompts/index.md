@@ -33,5 +33,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T14:15:36.641Z
+date: 2022-06-10
+links:
+- icon: chalkboard-user
+  icon_pack: fas
+  name: 'ACL 2022 Demo'
+  url: http://dx.doi.org/10.18653/v1/2022.acl-demo.9
 ---

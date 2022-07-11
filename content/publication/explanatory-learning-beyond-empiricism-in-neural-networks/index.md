@@ -10,7 +10,7 @@ authors:
   - Giambattista Parascandolo
   - Simone Melzi
   - Emanuele Rodolà
-doi: https://arxiv.org/abs/2201.10222
+doi: 
 publication_short: arXiv preprint
 abstract: We introduce Explanatory Learning (EL), a framework to let machines
   use existing knowledge buried in symbolic sequences -- e.g. explanations
@@ -39,5 +39,10 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2022-07-10T14:12:55.582Z
+date: 2022-01-25
+links:
+- icon:
+  icon_pack: fas
+  name: 'arXiv'
+  url: https://arxiv.org/abs/2201.10222
 ---
