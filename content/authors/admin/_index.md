@@ -44,8 +44,8 @@ superuser: true
 highlight_name: true
 ---
 
-Hi! I’m Andrea Santilli a Ph.D. student in Computer Science at GLADIA - Sapienza University of Rome (one of the [top European universities in AI](http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir&europe))- supervised by Prof. Emanuele Rodolà.
-Previously, I earned my master degree in Computer Science from Tor Vergata University with the thesis “Continual Language Learning with Syntax-based Episodic Memory in Neural Networks” which received the Emanuele Pianta award as the best master thesis is NLP by the [Italian Association of Computational Linguistics (AILC)](https://www.ai-lc.it/en/awards/best-master-thesis-emanuele-pianta/). The thesis led to the publication [KERMIT](https://aclanthology.org/2020.emnlp-main.18/) at EMNLP2020.
+Hi! I’m Andrea Santilli a Ph.D. student in Computer Science at GLADIA - Sapienza University of Rome (one of the [top European universities in AI](http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir&europe)) - supervised by Prof. Emanuele Rodolà.
+Previously, I earned my master degree in Computer Science from Tor Vergata University with the thesis “Continual Language Learning with Syntax-based Episodic Memory in Neural Networks” which received the Emanuele Pianta award as the best master thesis in NLP by the [Italian Association of Computational Linguistics (AILC)](https://www.ai-lc.it/en/awards/best-master-thesis-emanuele-pianta/). The thesis led to the publication [KERMIT](https://aclanthology.org/2020.emnlp-main.18/) at EMNLP2020.
 
 I’m a strong advocate of Open Source and Open Science initiatives, like [Hugginface’s BigScience](https://bigscience.huggingface.co/) in which I co-authored different papers.
 
